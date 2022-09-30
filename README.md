@@ -1,9 +1,12 @@
 - 👋 Hi, I’m Hakan FIRAT
-- 👀 I’m interested in JS, Go, Python and Linux
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on JS
-- ✨ How to reach me: hknfrt@protonmail.com
-- ✨ That is all for now
+- 😄 Pronouns He
+- 👀 I’m interested in JavaScript, Go, Python and Linux
+- 🧠 I’m currently learning JavaScript
+- 🤔 I’m looking to collaborate on JavaScript
+- 👩‍💻 I'm looking for help with JavaScript
+- 📫 How to reach me: hknfrt@protonmail.com
+- 💬 Ask me about JavaScript
+- ⚡️ Fun fact I am new :)
 
 <!---
 frthkn/frthkn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
