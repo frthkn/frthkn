@@ -4,7 +4,6 @@
 - 🧠 I’m currently learning JavaScript
 - 🤔 I’m looking to collaborate on JavaScript
 - 👩‍💻 I'm looking for help with JavaScript
-- 📫 How to reach me: hknfrt@protonmail.com
 - 💬 Ask me about JavaScript
 - ⚡️ Fun fact I am new :)
 
